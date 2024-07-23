@@ -4,12 +4,13 @@
 </p>
 # 💫 About Me:
 <p>
-  <h2>Machine Learning | Data Scientist </h2>
+  <h2>Machine Learning | Data Science </h2>
 </p>
 <br>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
-
+<p>📫 Feel free to reach me out <strong><a href="mailto:faizan9cm@gmail.com">faizan9cm@gmail.com</a></strong></p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
