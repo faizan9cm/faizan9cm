@@ -2,13 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Artificial+Intelligence+Zeal++;Software+Developer;Computer+Science+Student;Love+to+learn+new+things..<3"></a>
 </p>
-<br>
 # 💫 About Me:
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">ML | DL | NLP | CV</h2></summary>
-  </ul>
-</div>
+<h3 align="center">Machine Learning | Data Scientist </h3>
 <br>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
