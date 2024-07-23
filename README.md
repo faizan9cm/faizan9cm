@@ -6,7 +6,6 @@
 <p>
   <h2>Machine Learning | Data Science </h2>
 </p>
-<br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
