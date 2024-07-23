@@ -4,7 +4,7 @@
 </p>
 # 💫 About Me:
 <p>
-  <h3>Machine Learning | Data Scientist </h3>
+  <h2>Machine Learning | Data Scientist </h2>
 </p>
 <br>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
