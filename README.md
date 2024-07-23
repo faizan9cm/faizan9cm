@@ -27,7 +27,7 @@
     <div align="center">
       <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&amp;logo=python&amp;logoColor=98b982&amp;labelColor=282828">
       <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&amp;logo=java&amp;logoColor=98b982&amp;labelColor=282828">
-      <img src="https://img.shields.io/badge/-Java-D64F3F?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=282828" alt="Java Badge">
+      <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=ffffff&amp;labelColor=282828" alt="Java Badge">
       <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff&labelColor=282828" alt="C++ Badge">
     </div>
   </li>
