@@ -4,12 +4,8 @@
 </p>
 <br>
 # 💫 About Me:
-<li>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>Generative AI</strong></p>
-</li>
+<p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
 <br>
 <hr width="36%">
 <h3>My GitHub Stats</h3>
