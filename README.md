@@ -23,9 +23,15 @@
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <ul>
-  <li>Item A</li>
-  <li>Item B</li>
-  <li>Item C</li>
+  <li>Programming Languages
+    <div align="center">
+     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&amp;logo=html5&amp;logoColor=c58545&amp;labelColor=282828">
+     <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&amp;logo=css3&amp;logoColor=d1a01f&amp;labelColor=282828">
+     <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&amp;logo=python&amp;logoColor=98b982&amp;labelColor=282828">
+    </div>
+  </li>
+  <li>Machine Learning</li>
+  <li>Tools</li>
 </ul>
 
 
