@@ -9,6 +9,7 @@
     <summary><h2 style="display: inline-block">ML | DL | NLP | CV</h2></summary>
   </ul>
 </div>
+<br>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
 <br>
