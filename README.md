@@ -25,9 +25,9 @@
 <ul>
   <li>Programming Languages:
     <div align="center">
-      <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B&amp;labelColor=282828" alt="Python Badge">
-      <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=ffffff&amp;labelColor=282828" alt="Java Badge">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=ffffff&amp;labelColor=282828" alt="C++ Badge">
+      <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
+      <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
     </div>
   </li>
   <li>Front-End Development:
