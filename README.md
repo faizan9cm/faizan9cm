@@ -23,16 +23,20 @@
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <ul>
-  <li>Programming Languages
+  <li>Programming Languages:
     <div align="center">
       <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B&amp;labelColor=282828" alt="Python Badge">
       <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=ffffff&amp;labelColor=282828" alt="Java Badge">
-      <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=ffffff&amp;labelColor=282828" alt="Java Badge">
-      <img src="https://img.shields.io/badge/Java-C8102E?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java Badge">
       <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=ffffff&amp;labelColor=282828" alt="C++ Badge">
     </div>
   </li>
-  <li>Machine Learning</li>
+  <li>Front-End Development:
+    <div align="center">
+      <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff&amp;labelColor=282828" alt="HTML Badge">
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=ffffff&amp;labelColor=282828" alt="CSS Badge">
+      <img src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=282828" alt="JavaScript Badge">
+    </div>
+  </li>
   <li>Tools</li>
 </ul>
 
