@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi 👋 My name is Faizan Habib
+Hi 👋 I'm Faizan Habib
 =============================
 
 <!--
