@@ -7,7 +7,6 @@
   <h2>Machine Learning | Data Science </h2>
 </p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
-<br>
 <p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
 <p>📫 Feel free to reach me out <strong><a href="mailto:faizan9cm@gmail.com">faizan9cm@gmail.com</a></strong></p>
