@@ -25,10 +25,9 @@
 <ul>
   <li>Programming Languages
     <div align="center">
-      <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&amp;logo=python&amp;logoColor=98b982&amp;labelColor=282828">
-      <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&amp;logo=java&amp;logoColor=98b982&amp;labelColor=282828">
+      <img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B&amp;labelColor=282828" alt="Python Badge">
       <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=ffffff&amp;labelColor=282828" alt="Java Badge">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff&labelColor=282828" alt="C++ Badge">
+      <img src="https://img.shields.io/badge/-C++-C8102E?style=for-the-badge&amp;logo=C++&amp;logoColor=ffffff&amp;labelColor=282828" alt="C++ Badge">
     </div>
   </li>
   <li>Machine Learning</li>
