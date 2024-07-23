@@ -32,14 +32,14 @@
   </li>
   <li>Front-End Development:
     <div align="center">
-      <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff&amp;labelColor=282828" alt="HTML Badge">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=ffffff&amp;labelColor=282828" alt="CSS Badge">
-      <img src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=282828" alt="JavaScript Badge">
+      <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&amp;logo=html5&amp;logoColor=E44D26&amp;labelColor=282828" alt="HTML Badge">
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;labelColor=282828" alt="CSS Badge">
+      <img src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7E018&amp;labelColor=282828" alt="JavaScript Badge">
     </div>
   </li>
   <li>Software and Tools:
     <div align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=ffffff&amp;labelColor=282828" alt="Git Badge">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
     </div>
   </li>
