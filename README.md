@@ -23,14 +23,16 @@
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <ul>
-  <li>Programming Languages:
+  <li><b>Programming Languages:</b>
+    <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-Python-3069af?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
       <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
       <img src="https://img.shields.io/badge/-C++-0064b6C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
     </div>
   </li>
-  <li>Machine Learning:
+  <li><b>Machine Learning:</b>
+    <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=ffffff&amp;labelColor=282828" alt="NumPy Badge">
       <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
@@ -41,14 +43,16 @@
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=ffffff&amp;labelColor=282828" alt="TensorFlow Badge">
     </div>
   </li>
-  <li>Front-End Development:
+  <li><b>Front-End Development:</b>
+    <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-HTML-ee3a23?style=for-the-badge&amp;logo=html5&amp;logoColor=E44D26&amp;labelColor=282828" alt="HTML Badge">
       <img src="https://img.shields.io/badge/-CSS-3041aa?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;labelColor=282828" alt="CSS Badge">
       <img src="https://img.shields.io/badge/-JavaScript-f9f502?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7E018&amp;labelColor=282828" alt="JavaScript Badge">
     </div>
   </li>
-  <li>Software and Tools:
+  <li><b>Software and Tools:</b>
+    <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
