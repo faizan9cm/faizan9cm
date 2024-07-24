@@ -27,21 +27,21 @@
   <li><b>Programming Languages:</b></li>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Python-3069af?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
+    <img src="https://img.shields.io/badge/-Python-3069da?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
     <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
-    <img src="https://img.shields.io/badge/-C++-0064b6C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/-C++-003ba1?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
   </p>
   
   <li><b>Machine Learning:</b></li>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=ffffff&amp;labelColor=282828" alt="NumPy Badge">
+    <img src="https://img.shields.io/badge/-NumPy-0485a1?style=for-the-badge&amp;logo=numpy&amp;logoColor=5800af&amp;labelColor=282828" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
-    <img src="https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge">
-    <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=ffffff&amp;labelColor=282828" alt="Matplotlib Badge">
-    <img src="https://img.shields.io/badge/-NLTK-4D3F3F?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
-    <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Scikit-learn Badge">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=ffffff&amp;labelColor=282828" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/-Seaborn-8c6ee1?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge">
+    <img src="https://img.shields.io/badge/-Matplotlib-0a2c5f?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=ffffff&amp;labelColor=282828" alt="Matplotlib Badge">
+    <img src="https://img.shields.io/badge/-NLTK-05455b?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
+    <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=099fe3&amp;labelColor=282828" alt="Scikit-learn Badge">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=464646&amp;labelColor=282828" alt="TensorFlow Badge">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=ffffff&amp;labelColor=282828" alt="Keras Badge">
   </p>
   
@@ -51,17 +51,17 @@
     <img src="https://img.shields.io/badge/-HTML-ee3a23?style=for-the-badge&amp;logo=html5&amp;logoColor=E44D26&amp;labelColor=282828" alt="HTML Badge">
     <img src="https://img.shields.io/badge/-CSS-3041aa?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;labelColor=282828" alt="CSS Badge">
     <img src="https://img.shields.io/badge/-JavaScript-f9f502?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7E018&amp;labelColor=282828" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=ffffff&amp;labelColor=282828" alt="Streamlit Badge">
+    <img src="https://img.shields.io/badge/-Streamlit-ff2859?style=for-the-badge&amp;logo=streamlit&amp;logoColor=ea5669&amp;labelColor=282828" alt="Streamlit Badge">
     <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=ffffff&amp;labelColor=282828" alt="Flask Badge">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=ffffff&amp;labelColor=282828" alt="Django Badge">
+    <img src="https://img.shields.io/badge/-Django-0e542d?style=for-the-badge&amp;logo=django&amp;logoColor=ffffff&amp;labelColor=282828" alt="Django Badge">
   </p>
 
   <li><b>Database:</b></li>
   <br>
   <P align="center">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=ffffff&amp;labelColor=282828" alt="MySQL Badge">
-    <img src="https://img.shields.io/badge/-FAISS-3A3A3A?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
-    <img src="https://img.shields.io/badge/-Milvus-000000?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=ff6600&amp;labelColor=282828" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/-FAISS-f1185e?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
+    <img src="https://img.shields.io/badge/-Milvus-25a3ed?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
   </P>
 
   <li><b>IDEs and Editors:</b></li>
