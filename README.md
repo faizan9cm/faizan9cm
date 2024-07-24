@@ -25,16 +25,15 @@
 
 <ul>
   <li><b>Programming Languages:</b></li>
-  <p>&nbsp;</p> <!-- This adds a space -->
-  <div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/-Python-3069af?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
     <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
     <img src="https://img.shields.io/badge/-C++-0064b6C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
-  </div>
+  </p>
+  
   
   <li><b>Machine Learning:</b></li>
-  <p>&nbsp;</p> <!-- This adds a space -->
-  <div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=ffffff&amp;labelColor=282828" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
     <img src="https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge">
@@ -42,22 +41,22 @@
     <img src="https://img.shields.io/badge/-NLTK-4D3F3F?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
     <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Scikit-learn Badge">
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=ffffff&amp;labelColor=282828" alt="TensorFlow Badge">
-  </div>
+  </p>
+  
   
   <li><b>Front-End Development:</b></li>
-  <p>&nbsp;</p> <!-- This adds a space -->
-  <div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/-HTML-ee3a23?style=for-the-badge&amp;logo=html5&amp;logoColor=E44D26&amp;labelColor=282828" alt="HTML Badge">
     <img src="https://img.shields.io/badge/-CSS-3041aa?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;labelColor=282828" alt="CSS Badge">
     <img src="https://img.shields.io/badge/-JavaScript-f9f502?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7E018&amp;labelColor=282828" alt="JavaScript Badge">
-  </div>
+  </p>
+  
   
   <li><b>Software and Tools:</b></li>
-  <p>&nbsp;</p> <!-- This adds a space -->
-  <div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
-  </div>
+  </p>
 </ul>
 
 
