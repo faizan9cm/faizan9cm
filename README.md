@@ -25,6 +25,8 @@
 
 <ul>
   <li><b>Programming Languages:</b></li>
+
+  
   <p align="center">
     <img src="https://img.shields.io/badge/-Python-3069af?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
     <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
@@ -33,6 +35,8 @@
   
   
   <li><b>Machine Learning:</b></li>
+
+  
   <p align="center">
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=ffffff&amp;labelColor=282828" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
