@@ -16,10 +16,6 @@
 <p>🌱 I’m currently learning <strong>Generative AI, LLM, LangChain</strong></p>
 <p>📫 Feel free to reach me out <strong><a href="mailto:faizan9cm@gmail.com">faizan9cm@gmail.com</a></strong></p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 
@@ -35,13 +31,13 @@
   <li><b>Machine Learning:</b></li>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/-NumPy-0485a1?style=for-the-badge&amp;logo=numpy&amp;logoColor=5800af&amp;labelColor=282828" alt="NumPy Badge">
+    <img src="https://img.shields.io/badge/-NumPy-5800af?style=for-the-badge&amp;logo=numpy&amp;logoColor=0485a1&amp;labelColor=282828" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
     <img src="https://img.shields.io/badge/-Seaborn-8c6ee1?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge">
     <img src="https://img.shields.io/badge/-Matplotlib-0a2c5f?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=ffffff&amp;labelColor=282828" alt="Matplotlib Badge">
     <img src="https://img.shields.io/badge/-NLTK-05455b?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
     <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=099fe3&amp;labelColor=282828" alt="Scikit-learn Badge">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=464646&amp;labelColor=282828" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=c8c8c8&amp;labelColor=282828" alt="TensorFlow Badge">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=ffffff&amp;labelColor=282828" alt="Keras Badge">
   </p>
   
