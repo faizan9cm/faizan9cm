@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/badge/-NLTK-4D3F3F?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
     <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Scikit-learn Badge">
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=ffffff&amp;labelColor=282828" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=ffffff&amp;labelColor=282828" alt="Keras Badge">
+    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=ffffff&amp;labelColor=282828" alt="Streamlit Badge">
   </p>
   
   <li><b>Front-End Development:</b></li>
@@ -51,10 +53,37 @@
     <img src="https://img.shields.io/badge/-CSS-3041aa?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6&amp;labelColor=282828" alt="CSS Badge">
     <img src="https://img.shields.io/badge/-JavaScript-f9f502?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7E018&amp;labelColor=282828" alt="JavaScript Badge">
   </p>
+
+  <li><b>Back-End Development:</b></li>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=ffffff&amp;labelColor=282828" alt="Flask Badge">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=ffffff&amp;labelColor=282828" alt="Django Badge">
+    <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=ffffff&amp;labelColor=282828" alt="Streamlit Badge">
+  </p>
+
+  <li><b>Database:</b></li>
+  <br>
+  <P>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=ffffff&amp;labelColor=282828" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/-FAISS-3A3A3A?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
+    <img src="https://img.shields.io/badge/-Milvus-000000?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
+  </P>
+
+  <li><b>IDEs and Editors:</b></li>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=ffffff&amp;labelColor=282828" alt="VSCode Badge">
+    <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=ffffff&amp;labelColor=282828" alt="Jupyter Notebook Badge">
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=ffffff&amp;labelColor=282828" alt="Google Colab Badge">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=ffffff&amp;labelColor=282828" alt="Kaggle Badge">
+  </p>
   
-  <li><b>Software and Tools:</b></li>
+  <li><b>Softwares and Tools:</b></li>
   <br>
   <p align="center">
+    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=ffffff&amp;labelColor=282828" alt="Excel Badge">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=ffffff&amp;labelColor=282828" alt="Postman Badge">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
   </p>
