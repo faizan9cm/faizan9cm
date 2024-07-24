@@ -23,7 +23,7 @@
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h2 id="skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <ul>
-  <li><b>Programming Languages:</b>
+  <li style="margin-bottom: 20px;"><b>Programming Languages:</b>
     <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-Python-3069af?style=for-the-badge&amp;logo=python&amp;logoColor=306998&amp;labelColor=282828" alt="Python Badge">
