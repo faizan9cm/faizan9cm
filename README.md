@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/-C++-0064b6C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
     </div>
   </li>
-  <li><b>Machine Learning:</b>
+  <li style="margin-bottom: 20px;"><b>Machine Learning:</b>
     <br>
     <div align="center">
       <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=ffffff&amp;labelColor=282828" alt="NumPy Badge">
