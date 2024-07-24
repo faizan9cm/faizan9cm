@@ -100,6 +100,12 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?    username=faizan9cm&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="most used language" height="220px">
     </a>
   </P>
+
+  <p>
+    <a href="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+    </a>
+  </p>
 </div>
 
 
