@@ -39,7 +39,6 @@
       <img src="https://img.shields.io/badge/-NLTK-4D3F3F?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
       <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Scikit-learn Badge">
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=ffffff&amp;labelColor=282828" alt="TensorFlow Badge">
-
     </div>
   </li>
   <li>Front-End Development:
