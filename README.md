@@ -97,13 +97,13 @@
   
   <p>
     <a href="#">
-      <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&layout=compact" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
     </a>
   </p>
 
-  <p>
+    <p>
     <a href="#">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
     </a>
   </p>
 </div>
