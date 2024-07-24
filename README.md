@@ -86,9 +86,20 @@
   <p>
     <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" /></a>
   </p>
+  
   <p>
     <a href="#"><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" /></a>
   </p>
+  
+  <p>
+    <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&layout=compact" /></a>
+  </p>
+
+  <P>
+    <a href="https://github.com/faizan9cm">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?    username=faizan9cm&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="most used language" height="220px">
+    </a>
+  </P>
 </div>
 
 
