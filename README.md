@@ -93,7 +93,11 @@
   <div class="lower-in-main">
     <div class="left-in-lower">
       <div class="upper-in-left">
-        <h4>Upper in left</h4>
+        <p>
+          <a href="#">
+            <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
+          </a>
+        </p>
       </div>
       <div class="lower-in-left">
         <h4>Lower in left</h4>
