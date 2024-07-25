@@ -92,7 +92,7 @@
 <tbody>
 <tr border="none">
 <td>
-  <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=dark&include_all_commits=true&count_private=true&include_pulls=true" width="646" height="auto">
 </td>
 </tr>
 </tbody>
@@ -102,16 +102,17 @@
 <tbody>
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&amp;theme=dark&amp;hide_border=false"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&amp;theme=dark&amp;hide_border=false" width="360" height="auto"> 
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&amp;theme=dark&amp;show_icons=true&amp;count_private=true" width="360" height="auto">
 </td>
 <td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=faizan9cm&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=7">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=faizan9cm&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=7" width="260" height="auto">
 </td>
 </tr>
 </tbody>
 </table>
+
 
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
