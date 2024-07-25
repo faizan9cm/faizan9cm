@@ -83,6 +83,7 @@
 <h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <div align="center">
+  <!-- Upper div -->
   <div style="width: 100%; text-align: center; margin-bottom: 20px;">
     <p>
       <a href="#">
@@ -90,31 +91,31 @@
       </a>
     </p>
   </div>
-  <div style="width: 100%; display: flex; justify-content: center; gap: 10px;">
-    <div style="flex: 1; text-align: center;">
-      <div style="margin-bottom: 10px;">
-        <p>
-          <a href="#">
-            <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
-          </a>
-        </p>
-      </div>
-      <div>
-        <p>
-          <a href="#">
-            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
-          </a>
-        </p>
-      </div>
-    </div>
-    <div style="flex: 1; text-align: center;">
-      <p>
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
-        </a>
-      </p>
-    </div>
-  </div>
+  <!-- Lower div using a table layout -->
+  <table style="width: 100%; border-spacing: 10px;">
+    <tr>
+      <!-- Left div -->
+      <td style="width: 50%; vertical-align: top; text-align: center;">
+        <!-- Upper div inside left div -->
+        <div style="margin-bottom: 10px;">
+          <p>
+            <a href="#">
+              <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
+            </a>
+          </p>
+        </div>
+        <!-- Lower div inside left div -->
+        <div>
+          <p>
+            <a href="#">
+              <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+            </a>
+          </p>
+        </div>
+      </td>
+      <!-- Right div -->
+    </tr>
+  </table>
 </div>
 
 
