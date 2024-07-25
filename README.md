@@ -83,7 +83,6 @@
 <h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <div align="center">
-  <!-- Upper div -->
   <div style="width: 100%; text-align: center; margin-bottom: 20px;">
     <p>
       <a href="#">
@@ -91,12 +90,8 @@
       </a>
     </p>
   </div>
-
-  <!-- Lower divs -->
   <div style="width: 100%; display: flex; justify-content: center; gap: 10px;">
-    <!-- Left div inside lower div -->
     <div style="flex: 1; text-align: center;">
-      <!-- Upper div inside left div -->
       <div style="margin-bottom: 10px;">
         <p>
           <a href="#">
@@ -104,8 +99,6 @@
           </a>
         </p>
       </div>
-
-      <!-- Lower div inside left div -->
       <div>
         <p>
           <a href="#">
@@ -114,8 +107,6 @@
         </p>
       </div>
     </div>
-
-    <!-- Right div inside lower div -->
     <div style="flex: 1; text-align: center;">
       <p>
         <a href="#">
@@ -125,11 +116,6 @@
     </div>
   </div>
 </div>
-
-
-
-
-
 
 
 
