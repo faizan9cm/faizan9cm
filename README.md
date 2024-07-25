@@ -83,30 +83,49 @@
 <h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <div align="center">
-  <p>
-    <a href="#">
-      <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="#">
-      <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="#">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
-    </a>
-  </p>
+  <!-- Upper div -->
+  <div>
+    <p>
+      <a href="#">
+        <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
+      </a>
+    </p>
+  </div>
 
-  <p>
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
-    </a>
-  </p>
+  <!-- Lower div -->
+  <div>
+    <!-- Left div inside lower div -->
+    <div>
+      <!-- Upper div inside left div of lower div -->
+      <div>
+        <p>
+          <a href="#">
+            <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
+          </a>
+        </p>
+      </div>
+      
+      <!-- Lower div inside left div of lower div -->
+      <div>
+        <p>
+          <a href="#">
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+          </a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Right div inside lower div -->
+    <div>
+      <p>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
+        </a>
+      </p>
+    </div>
+  </div>
 </div>
+
 
 
 
