@@ -84,7 +84,11 @@
 
 <div class="main">
   <div class="upper-in-main">
-    <h4>Upper in main</h4>
+    <p>
+      <a href="#">
+        <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
+      </a>
+    </p>
   </div>
   <div class="lower-in-main">
     <div class="left-in-lower">
