@@ -108,7 +108,11 @@
       </div>
     </div>
     <div class="right-in-lower">
-      <h4>Right in lower</h4>
+      <p>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
+        </a>
+      </p>
     </div>
   </div>
 </div>
