@@ -100,7 +100,11 @@
         </p>
       </div>
       <div class="lower-in-left">
-        <h4>Lower in left</h4>
+        <p>
+          <a href="#">
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
+          </a>
+        </p>
       </div>
     </div>
     <div class="right-in-lower">
