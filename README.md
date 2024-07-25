@@ -84,7 +84,7 @@
 
 <div align="center">
   <!-- Upper div -->
-  <div style="width: 100%; text-align: center; margin-bottom: 20px;">
+  <div style="width: 100%; text-align: center;">
     <p>
       <a href="#">
         <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
@@ -97,7 +97,7 @@
       <!-- Left div -->
       <td style="width: 50%; vertical-align: top; text-align: center;">
         <!-- Upper div inside left div -->
-        <div style="margin-bottom: 10px;">
+        <div">
           <p>
             <a href="#">
               <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
@@ -114,6 +114,13 @@
         </div>
       </td>
       <!-- Right div -->
+      <td style="width: 50%; text-align: center;">
+        <p>
+          <a href="#">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
+          </a>
+        </p>
+      </td>
     </tr>
   </table>
 </div>
