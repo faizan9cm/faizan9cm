@@ -114,15 +114,6 @@
         </p>
       </div>
     </div>
-
-    <!-- Right div inside lower div -->
-    <div class="right-lower-div">
-      <p>
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
-        </a>
-      </p>
-    </div>
   </div>
 </div>
 
