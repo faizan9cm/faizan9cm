@@ -84,13 +84,15 @@
 
 <div align="center">
   <!-- Upper div -->
-  <div style="width: 100%; text-align: center;">
-    <p>
-      <a href="#">
-        <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
-      </a>
-    </p>
-  </div>
+  <table>
+    <div style="width: 75%; text-align: center;">
+      <p>
+        <a href="#">
+          <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
+        </a>
+      </p>
+    </div>
+  </table>
   <!-- Lower div using a table layout -->
   <table style="width: 100%; border-spacing: 10px;">
     <tr>
@@ -114,7 +116,7 @@
         </div>
       </td>
       <!-- Right div -->
-      <td style="width: 50%; text-align: center;">
+      <td style="width: 50%; text-align: center; margin-top: -10%;">
         <p>
           <a href="#">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
@@ -124,7 +126,6 @@
     </tr>
   </table>
 </div>
-
 
 
 <!--
