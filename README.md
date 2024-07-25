@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/-Java-C8102E?style=for-the-badge&amp;logo=java&amp;logoColor=C8102E&amp;labelColor=282828" alt="Java Badge">
     <img src="https://img.shields.io/badge/-C++-003ba1?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=00599C&amp;labelColor=282828" alt="C++ Badge">
   </p>
+  <br>
   
   <li><b>Machine Learning:</b></li>
   <br>
@@ -40,6 +41,7 @@
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=c8c8c8&amp;labelColor=282828" alt="TensorFlow Badge">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=ffffff&amp;labelColor=282828" alt="Keras Badge">
   </p>
+  <br>
   
   <li><b>Web Development:</b></li>
   <br>
@@ -51,6 +53,7 @@
     <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=ffffff&amp;labelColor=282828" alt="Flask Badge">
     <img src="https://img.shields.io/badge/-Django-0e542d?style=for-the-badge&amp;logo=django&amp;logoColor=ffffff&amp;labelColor=282828" alt="Django Badge">
   </p>
+  <br>
 
   <li><b>Database:</b></li>
   <br>
@@ -59,6 +62,7 @@
     <img src="https://img.shields.io/badge/-FAISS-f1185e?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
     <img src="https://img.shields.io/badge/-Milvus-25a3ed?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
   </P>
+  <br>
 
   <li><b>IDEs and Editors:</b></li>
   <br>
@@ -68,6 +72,7 @@
     <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=ffffff&amp;labelColor=282828" alt="Google Colab Badge">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=ffffff&amp;labelColor=282828" alt="Kaggle Badge">
   </p>
+  <br>
   
   <li><b>Softwares and Tools:</b></li>
   <br>
@@ -83,50 +88,29 @@
 <h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <div align="center">
-  <!-- Upper div -->
-  <table>
-    <div style="width: 75%; text-align: center;">
-      <p>
-        <a href="#">
-          <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
-        </a>
-      </p>
-    </div>
-  </table>
-  <!-- Lower div using a table layout -->
-  <table style="width: 100%; border-spacing: 10px;">
-    <tr>
-      <!-- Left div -->
-      <td style="width: 50%; vertical-align: top; text-align: center;">
-        <!-- Upper div inside left div -->
-        <div">
-          <p>
-            <a href="#">
-              <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
-            </a>
-          </p>
-        </div>
-        <!-- Lower div inside left div -->
-        <div>
-          <p>
-            <a href="#">
-              <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
-            </a>
-          </p>
-        </div>
-      </td>
-      <!-- Right div -->
-      <td style="width: 50%; text-align: center; margin-top: -10%;">
-        <p>
-          <a href="#">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <div style="width: 100%; text-align: center;">
+    <p>
+      <a href="#">
+        <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
+      </a>
+    </p>
 </div>
+  
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&amp;theme=dark&amp;hide_border=false"> 
+  <br><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=faizan9cm&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=7">
+  </td>
+</tr>
+</tbody></table>
 
+
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <!--
 **faizan9cm/faizan9cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
