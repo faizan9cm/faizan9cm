@@ -83,6 +83,7 @@
 <h2 id="skills"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Stats</b></h2>
 
 <div align="center">
+  <!-- Upper div -->
   <div style="width: 100%; text-align: center; margin-bottom: 20px;">
     <p>
       <a href="#">
@@ -90,16 +91,22 @@
       </a>
     </p>
   </div>
-  <div style="display: flex; width: 100%;">
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; text-align: center;">
+
+  <!-- Lower divs -->
+  <div style="width: 100%; display: flex; justify-content: center; gap: 10px;">
+    <!-- Left div inside lower div -->
+    <div style="flex: 1; text-align: center;">
+      <!-- Upper div inside left div -->
+      <div style="margin-bottom: 10px;">
         <p>
           <a href="#">
             <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
           </a>
         </p>
       </div>
-      <div style="width: 100%; text-align: center;">
+
+      <!-- Lower div inside left div -->
+      <div>
         <p>
           <a href="#">
             <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
@@ -107,6 +114,8 @@
         </p>
       </div>
     </div>
+
+    <!-- Right div inside lower div -->
     <div style="flex: 1; text-align: center;">
       <p>
         <a href="#">
@@ -116,6 +125,7 @@
     </div>
   </div>
 </div>
+
 
 
 
