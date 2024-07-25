@@ -114,32 +114,46 @@
 </table>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h2> Trophies</h2>
+<h2> 🏆 Trophies</h2>
 <P align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=faizan9cm&theme=monokai&margin-w=15&margin-h=15&coloumn=3&row=1" alt="trophy">  
 </P>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h2> Projects</h2>
-<P align="center">
-  <a href="https://github.com/faizan9cm/Unified-Speech-Recognition-Assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Unified-Speech-Recognition-Assistant&theme=dark" width="360" height="auto">
-  </a>
-  <a href="https://github.com/faizan9cm/RAG-Web-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=RAG-Web-App&theme=dark" width="360" height="auto">
-  </a>
-  <a href="https://github.com/faizan9cm/Event-Scheduler-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Event-Scheduler-System&theme=dark" width="360" height="auto">
-  </a>
-  <a href="https://github.com/faizan9cm/Event-Scheduler-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=ResiMatriX&theme=dark" width="360" height="auto">
-  </a>
-</P>
+<h2> 📦 Projects</h2>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/faizan9cm/Unified-Speech-Recognition-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Unified-Speech-Recognition-Assistant&theme=dark" width="360" height="auto" style="margin-right: 20px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/faizan9cm/RAG-Web-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=RAG-Web-App&theme=dark" width="360" height="auto" style="margin-left: 20px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/faizan9cm/Event-Scheduler-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Event-Scheduler-System&theme=dark" width="360" height="auto" style="margin-right: 20px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/faizan9cm/ResiMatriX">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=ResiMatriX&theme=dark" width="360" height="auto" style="margin-left: 20px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizan9cm" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffffff&amp;labelColor=282828" alt="LinkedIn Badge">
 </a>
+</p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 
