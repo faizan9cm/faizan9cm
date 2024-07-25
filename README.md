@@ -92,14 +92,14 @@
   </div>
   <div style="display: flex; width: 100%;">
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-      <div class="upper-in-left">
+      <div style="width: 100%; text-align: center;">
         <p>
           <a href="#">
             <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
           </a>
         </p>
       </div>
-      <div class="lower-in-left">
+      <div style="width: 100%; text-align: center;">
         <p>
           <a href="#">
             <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
@@ -107,7 +107,7 @@
         </p>
       </div>
     </div>
-    <div class="right-in-lower">
+    <div style="flex: 1; text-align: center;">
       <p>
         <a href="#">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
