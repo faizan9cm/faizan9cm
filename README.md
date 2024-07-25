@@ -91,7 +91,7 @@
     </p>
   </div>
   <div style="display: flex; width: 100%;">
-    <div class="left-in-lower">
+    <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
       <div class="upper-in-left">
         <p>
           <a href="#">
