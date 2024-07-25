@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank"> Faizan Habib</a></h1>
+<h1 align="center">Hi 👋, I'm Faizan Habib</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Artificial+Intelligence+Zeal++;Software+Developer;Computer+Science+Student;Love+to+learn+new+things..<3"></a>
 </p>
 
-<h4 id="about-me"># 💫 About Me:</h4>
+<h3 id="about-me"># 💫 About Me:</h3>
 
 <p>
   <h2>Machine Learning | Data Science </h2>
