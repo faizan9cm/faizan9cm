@@ -84,7 +84,7 @@
 
 <div align="center">
   <!-- Upper div -->
-  <div>
+  <div class="upper-div">
     <p>
       <a href="#">
         <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan9cm&theme=radical&include_all_commits=true&count_private=true&include_pulls=true" />
@@ -93,11 +93,11 @@
   </div>
 
   <!-- Lower div -->
-  <div>
+  <div class="lower-div">
     <!-- Left div inside lower div -->
-    <div>
+    <div class="left-lower-div">
       <!-- Upper div inside left div of lower div -->
-      <div>
+      <div class="upper-left-lower-div">
         <p>
           <a href="#">
             <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9cm&theme=radical&hide_border=false" />
@@ -106,7 +106,7 @@
       </div>
       
       <!-- Lower div inside left div of lower div -->
-      <div>
+      <div class="lower-left-lower-div">
         <p>
           <a href="#">
             <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faizan9cm&show_icons=true&theme=radical">
@@ -116,7 +116,7 @@
     </div>
 
     <!-- Right div inside lower div -->
-    <div>
+    <div class="right-lower-div">
       <p>
         <a href="#">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan9cm&theme=radical&hide_title=false" alt="Top Languages">
@@ -125,8 +125,6 @@
     </div>
   </div>
 </div>
-
-
 
 
 
