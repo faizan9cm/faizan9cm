@@ -90,7 +90,7 @@
       </a>
     </p>
   </div>
-  <div class="lower-in-main">
+  <div style="display: flex; width: 100%;">
     <div class="left-in-lower">
       <div class="upper-in-left">
         <p>
