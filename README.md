@@ -88,7 +88,12 @@
   </div>
   <div class="lower-in-main">
     <div class="left-in-lower">
-      <h4>Left in lower</h4>
+      <div class="upper-in-left">
+        <h4>Upper in left</h4>
+      </div>
+      <div class="lower-in-left">
+        <h4>Lower in left</h4>
+      </div>
     </div>
     <div class="right-in-lower">
       <h4>Right in lower</h4>
