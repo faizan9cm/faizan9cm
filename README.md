@@ -9,13 +9,6 @@
 <p align="left"> 
   <img src="https://api.visitorbadge.io/api/visitors?path=faizan9cm&label=Hits&countColor=%232ECC71"> 
 </p>
-<!--
-<div style="display: flex; align-items: center;">
-  <picture>
-    <img src="./about_me.gif" width="50px">
-  </picture>
-  <b style="margin-left: 10px;">About me</b>
-</div>
 
 <h3 id="about-me"># 💫 About Me:</h3>
 
@@ -47,7 +40,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/-NumPy-5800af?style=for-the-badge&amp;logo=numpy&amp;logoColor=0485a1&amp;labelColor=282828" alt="NumPy Badge">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
-    <img src="https://img.shields.io/badge/-Seaborn-8c6ee1?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge">
+<!--     <img src="https://img.shields.io/badge/-Seaborn-8c6ee1?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge"> -->
     <img src="https://img.shields.io/badge/-Matplotlib-0a2c5f?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=ffffff&amp;labelColor=282828" alt="Matplotlib Badge">
     <img src="https://img.shields.io/badge/-NLTK-05455b?style=for-the-badge&amp;logo=nltk&amp;logoColor=ffffff&amp;labelColor=282828" alt="NLTK Badge">
     <img src="https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=099fe3&amp;labelColor=282828" alt="Scikit-learn Badge">
