@@ -4,6 +4,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Artificial+Intelligence+Zeal++;Software+Developer;Computer+Science+Student;Love+to+learn+new+things..<3"></a>
 </p>
 
+<!-- Views -->
+
+<p align="left"> 
+  <img src="https://api.visitorbadge.io/api/visitors?path=faizan9cm&label=Hits&countColor=%232ECC71"> 
+</p>
+<!--
+<div style="display: flex; align-items: center;">
+  <picture>
+    <img src="./about_me.gif" width="50px">
+  </picture>
+  <b style="margin-left: 10px;">About me</b>
+</div>
+
 <h3 id="about-me"># 💫 About Me:</h3>
 
 <p>
@@ -12,8 +25,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p>👨‍💻 I’m currently working on <strong>NLP, Embedding, Encoding, Flask</strong></p>
-<p>🌱 I’m currently learning <strong>Computer Vision, Generative AI, LLM</strong></p>
+<p>👨‍💻 I’m currently working on <strong>Big Data, LLM</strong></p>
+<p>🌱 I’m currently learning <strong>Cloud Computing, Generative AI, Computer Vision</strong></p>
 <p>📫 Feel free to reach me out <strong><a href="mailto:faizan9cm@gmail.com">faizan9cm@gmail.com</a></strong></p>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
@@ -59,6 +72,7 @@
   <br>
   <P align="center">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=ff6600&amp;labelColor=282828" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=282828" alt="MongoDB Badge">
     <img src="https://img.shields.io/badge/-FAISS-f1185e?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
     <img src="https://img.shields.io/badge/-Milvus-25a3ed?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
   </P>
@@ -78,6 +92,7 @@
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=ffffff&amp;labelColor=282828" alt="Excel Badge">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=282828" alt="Power BI Badge">
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=ffffff&amp;labelColor=282828" alt="Postman Badge">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
