@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffffff&amp;labelColor=282828" alt="Pandas Badge">
 <!--     <img src="https://img.shields.io/badge/-Seaborn-8c6ee1?style=for-the-badge&amp;logo=seaborn&amp;logoColor=ffffff&amp;labelColor=282828" alt="Seaborn Badge"> -->
     <img src="https://img.shields.io/badge/-Matplotlib-0a2c5f?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=ffffff&amp;labelColor=282828" alt="Matplotlib Badge">
+    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=ffffff&amp;labelColor=282828" alt="Excel Badge">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=282828" alt="Power BI Badge">
   </p>
   <br>
   
@@ -54,6 +56,11 @@
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=c8c8c8&amp;labelColor=282828" alt="TensorFlow Badge">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=ffffff&amp;labelColor=282828" alt="Keras Badge">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff&labelColor=282828" alt="PyTorch Badge">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff&labelColor=282828" alt="OpenCV Badge">
+    <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=ffffff&labelColor=282828" alt="YOLO Badge">
+    <img src="https://img.shields.io/badge/-LangChain-3B4D98?style=for-the-badge&logo=langchain&logoColor=ffffff&labelColor=282828" alt="LangChain Badge">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=ffffff&labelColor=282828" alt="HuggingFace Badge">
+    <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=282828" alt="OpenAI Badge">
   </p>
   <br>
   
@@ -69,20 +76,23 @@
   </p>
   <br>
 
-  <li><b>Relational/NoSQL Database:</b></li>
+  <li><b>Database:</b></li>
   <br>
   <P align="center">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=ff6600&amp;labelColor=282828" alt="MySQL Badge">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=282828" alt="MongoDB Badge">        
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=282828" alt="MongoDB Badge">    
+    <img src="https://img.shields.io/badge/-FAISS-f1185e?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
+    <img src="https://img.shields.io/badge/-Pinecone-008080?style=for-the-badge&logo=pinecone&logoColor=ffffff&labelColor=282828" alt="Pinecone Badge">
+    <img src="https://img.shields.io/badge/-Milvus-25a3ed?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge"> 
   </P>
   <br>
 
-  <li><b>Vector Database:</b></li>
+  <li><b>Automation & Testing:</b></li>
   <br>
   <P align="center">
-    <img src="https://img.shields.io/badge/-FAISS-f1185e?style=for-the-badge&amp;logo=faiss&amp;logoColor=ffffff&amp;labelColor=282828" alt="FAISS Badge">
-    <img src="https://img.shields.io/badge/-Pinecone-008080?style=for-the-badge&logo=pinecone&logoColor=ffffff&labelColor=282828" alt="Pinecone Badge">
-    <img src="https://img.shields.io/badge/-Milvus-25a3ed?style=for-the-badge&amp;logo=milvus&amp;logoColor=ffffff&amp;labelColor=282828" alt="Milvus Badge">        
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=ffffff&amp;labelColor=282828" alt="Postman Badge"> 
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff&labelColor=282828" alt="Selenium Badge">
+    <img src="https://img.shields.io/badge/-BeautifulSoup-FFD700?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=282828" alt="BeautifulSoup Badge">
   </P>
   <br>
 
@@ -90,20 +100,25 @@
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=ffffff&amp;labelColor=282828" alt="VSCode Badge">
+    <img src="https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=ffffff&labelColor=282828" alt="Apache NetBeans">
     <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=ffffff&amp;labelColor=282828" alt="Jupyter Notebook Badge">
     <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=ffffff&amp;labelColor=282828" alt="Google Colab Badge">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=ffffff&amp;labelColor=282828" alt="Kaggle Badge">
+    <img src="https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffffff&labelColor=282828" alt="Conda Badge">
   </p>
   <br>
   
-  <li><b>Softwares and Tools:</b></li>
+  <li><b>MLOps:</b></li>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=ffffff&amp;labelColor=282828" alt="Excel Badge">
-    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=282828" alt="Power BI Badge">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=ffffff&amp;labelColor=282828" alt="Postman Badge">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=F05032&amp;labelColor=282828" alt="Git Badge">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=282828" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=282828" alt="Git Badge">
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=ffffff&labelColor=282828" alt="GitLab Badge">
+    <img src="https://img.shields.io/badge/-DagsHub-0A7C57?style=for-the-badge&logo=dash&logoColor=ffffff&labelColor=282828" alt="DagsHub Badge">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=282828" alt="Docker Badge">
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff&labelColor=282828" alt="Jenkins Badge">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff&labelColor=282828" alt="Kubernetes Badge">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=282828" alt="AWS Badge">
+    <img src="https://img.shields.io/badge/-MLFlow-00B1E1?style=for-the-badge&logo=mlflow&logoColor=ffffff&labelColor=282828" alt="MLFlow Badge">
   </p>
 </ul>
 
