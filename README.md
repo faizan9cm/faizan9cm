@@ -167,20 +167,20 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/faizan9cm/RAG-Web-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=RAG-Web-App&theme=dark" width="360" height="auto" style="margin-left: 20px;">
+      <a href="https://github.com/faizan9cm/Personal-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Personal-Portfolio&theme=dark" width="360" height="auto" style="margin-left: 20px;">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/faizan9cm/Event-Scheduler-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Event-Scheduler-System&theme=dark" width="360" height="auto" style="margin-right: 20px;">
+      <a href="https://github.com/faizan9cm/FuncRAG">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=FuncRAG&theme=dark" width="360" height="auto" style="margin-right: 20px;">
       </a>
     </td>
     <td>
-      <a href="https://github.com/faizan9cm/ResiMatriX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=ResiMatriX&theme=dark" width="360" height="auto" style="margin-left: 20px;">
+      <a href="https://github.com/faizan9cm/Medical-Chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan9cm&repo=Medical-Chatbot&theme=dark" width="360" height="auto" style="margin-left: 20px;">
       </a>
     </td>
   </tr>
@@ -193,7 +193,6 @@
 </a>
 </p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
 
 <!--
 **faizan9cm/faizan9cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
